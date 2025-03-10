@@ -1,0 +1,9 @@
+AppData/
+.vscode/
+*.log
+*.ini
+*.dat
+*.regtrans-ms
+*.blf
+*.lnk
+

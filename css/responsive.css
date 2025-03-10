@@ -1,0 +1,922 @@
+@media only screen and (min-width:1920px) {}
+
+@media only screen and (min-width:1600px) and (max-width:1900px) {   img.Guaranteelogo {
+       right: 100px ;
+   }
+   .banner2 .row {
+      height: 100%;
+  }
+
+}
+
+@media only screen and (min-width:1400px) {
+    .banner2 .row {
+        height: 100vh;
+    }
+}
+
+@media only screen and (min-width:1400px) and (max-width:1599px) {
+   img.Guaranteelogo {
+       right: 50px;
+   }
+   .banner2-inner {
+      width: 450px;
+      padding: 30px;
+  }
+}
+
+@media only screen and (min-width:1300px) and (max-width:1367px) {
+    .da-thumbs li a {
+        padding: 20px 20px;
+    }
+    .navbar-expand-lg .navbar-nav .dropdown-menu {
+        width: 240px;
+    }
+    .dropdown-menu li>a {
+        font-size: 16px;
+        padding: 8px 15px;
+    }
+    .submenu span {
+        font-size: 13px;
+    }
+    .banner2-inner {
+        width: 450px;
+        padding: 25px;
+        padding-top: 30px;
+        justify-content: flex-start;
+    }
+    .navbar {
+        position: relative;
+        z-index: 5;
+    }
+    .banner2 .banner2-left {
+        padding-left: 10px;
+        margin-top: 70px;
+    }
+    .banner2 .banner2-left h1 {
+        font-size: 40px;
+        line-height: 55px;
+        margin-bottom: 10px;
+    }
+    .banner2 .banner2-left p {
+        font-size: 18px;
+        margin-bottom: 10px;
+    }
+    .banner2-inner .icon-box {
+        margin-bottom: 0px;
+    }
+    .pricing-plan .plan .item .plan-box .box-title {
+        font-size: 17px;
+    }
+   img.Guaranteelogo {
+       right: 50px;
+   }
+   .banner2 .row {
+      align-items: center;
+  }
+}
+
+@media only screen and (min-width:1200px) and (max-width:1280px) {
+    .da-thumbs li a {
+        padding: 20px 21px;
+    }
+    .navbar-expand-lg .navbar-nav .dropdown-menu {
+        width: 1140px;
+    }
+    .dropdown-menu li>a {
+        font-size: 16px;
+        padding: 8px 15px;
+    }
+    .submenu span {
+        font-size: 13px;
+    }
+
+   img.Guaranteelogo {
+       right: 15px;
+   }
+   .banner2 {
+      height: 90vh;
+  }
+  .banner2-inner {
+      width: 430px;
+      padding: 20px;
+  }
+  .banner2 .row {
+   align-items: center;
+}
+}
+
+@media only screen and (min-width:1200px) {
+    li.dropdown:hover>ul {
+        display: flex;
+        justify-content: space-around;
+    }
+}
+
+@media (max-width: 1199px) {
+    .banner2 .banner2-left {
+        padding-left: 0px;
+    }
+    .banner2 .banner2-left h1 {
+        font-size: 38px;
+        line-height: 60px;
+    }
+    .banner2 .banner2-left p {
+        font-size: 18px;
+    }
+    .banner2-inner {
+        position: relative;
+        width: 100%;
+        padding: 20px;
+        margin-top: 0px;
+        background-color: #40D26A;
+    }
+    .banner2-inner .icon-box i {
+        font-size: 35px;
+        margin-right: 10px;
+    }
+    .banner2-inner .icon-box span {
+        font-size: 17px;
+        line-height: 35px;
+    }
+    .banner2-inner .icon-box p {
+        font-size: 14px;
+        line-height: 24px;
+    }
+
+	img.Guaranteelogo {
+       right: 5px;
+	max-width: 25% !important;
+   }
+}
+
+@media screen and (max-width: 1024px) {
+    .banner_caption {
+        width: 100%;
+    }
+    .banner_caption .caption {
+        width: 500px;
+        padding-left: 30px;
+    }
+    .banner_caption h1 {
+        font-size: 36px;
+    }
+    .banner {
+        height: calc(75vh - 0px);
+        background-size: cover;
+        background-position: center;
+    }
+    .banner_caption a {
+        display: inline-block;
+    }
+    .we_focus_text .comntitle {
+        font-size: 24px;
+        line-height: 32px;
+    }
+    .calldiv aside {
+        padding: 15px 25px;
+        width: 75%;
+        bottom: 20px;
+    }
+    .da-thumbs li a {
+        padding: 15px 10px;
+    }
+    .comnpadding,
+    .howit_work {
+        padding: 70px 0;
+    }
+    .work_process li p {
+        width: 80%;
+        letter-spacing: 0;
+    }
+    .service_list {
+        width: 90%;
+    }
+    .navbar-expand-lg .navbar-nav .dropdown-menu {
+        position: absolute;
+        right: 0;
+        width: 100%;
+        top: 45px;
+        min-width: 260px;
+        height: 325px;
+        overflow: auto;
+    }
+    .dropdown-menu li>a {
+        font-size: 15px;
+        padding: 8px 10px;
+    }
+    .da-thumbs li a div {
+        padding: 18px 10px;
+    }
+    .pricing-table .ptabler-form {
+        padding: 15px;
+    }
+    .navbar-light .navbar-nav .nav-link{
+        margin-left: 25px;
+    }
+    .navbar-light .navbar-nav .nav-link{
+        padding: 10px 0;
+    }
+    .pricing-table .ptable-list li {
+        width: 49%;
+    }
+}
+
+@media only screen and (min-width:992px) and (max-width:1199px) {
+    .banner2 {
+        height: auto;
+        padding-bottom: 30px;
+    }
+    .banner2 .banner2-inner {
+        margin-top: 15px;
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+    .banner2 .banner2-inner aside {
+        display: block;
+        width: 100%;
+        text-align: center;
+    }
+    .banner2-inner .icon-box {
+        width: 30%;
+        margin: 15px;
+    }
+    .banner2-inner .icon-box span {
+        font-size: 16px;
+    }
+    .banner2 .banner2-left {
+        text-align: center;
+    }
+    .banner2 .banner2-left p {
+        margin: auto;
+    }
+    .contact .contact-box {
+        padding: 25px;
+    }
+    .contact .contact-box .box-left {
+        padding: 40px 20px 10px;
+    }
+}
+
+@media screen and (max-width: 991px) {
+    header.fixed {
+        position: initial;
+    }
+    .navbar-light .navbar-toggler {
+        color: transparent;
+        border-color: transparent;
+    }
+    .navbar-light .navbar-toggler-icon {
+        background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,255,255,1)' stroke-width='3' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+    }
+    .navbar-nav,
+    .navbar-collapse {
+        align-items: self-start;
+    }
+    .navbar-collapse {
+        position: absolute;
+        top: 99%;
+        background: #0e2339;
+        z-index: 5;
+        width: 100%;
+        left: 0;
+        padding: 0 30px;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        margin-left: 0;
+    }
+    .banner {
+        height: auto;
+        padding: 70px 0;
+    }
+    .comntitle {
+        font-size: 30px;
+    }
+    .service_list li aside {
+        font-size: 16px;
+        margin-bottom: 10px;
+    }
+    .da-thumbs {
+        justify-content: center;
+    }
+    .CTA_btn {
+        margin-bottom: 30px;
+    }
+    .extraimg {
+        /*display: none;*/
+	width:100%;
+    }
+
+    footer {
+        padding: 40px 0;
+    }
+    footer li:first-child {
+        padding: 0 15px;
+        width: 100%;
+        text-align: center;
+        margin-bottom: 30px;
+    }
+    footer li {
+        padding: 0 15px;
+        width: 25%;
+    }
+    .tio-head {
+        text-align: center;
+        margin-top: 20px;
+    }
+    .service_list {
+        width: 100%;
+    }
+    .navbar-expand-lg .navbar-nav .dropdown-menu {
+        position: initial;
+        right: 0;
+        width: 100%;
+        top: 45px;
+        min-width: initial;
+        height: auto;
+        overflow: auto;
+    }
+    .workbox aside {
+        font-size: 26px;
+    }
+    .workbox p {
+        font-size: 15px;
+        padding-right: 0;
+    }
+    .da-thumbs li {
+        width: 18%;
+    }
+    .banner2 {
+        height: 91vh;
+    }
+    .banner2-inner {
+        margin-top: 20px;
+    }
+    .faq .faq-inner .accordion .accordion-item .accordion-header button {
+        margin-bottom: 0px;
+        font-size: 15px;
+        line-height: 20px;
+    }
+    .cta2 .cta2-box {
+        padding: 90px 15px 35px;
+    }
+    .cta2 .cta2-box h4 {
+        font-size: 22px;
+    }
+    .cta2 .cta2-box h5 {
+        font-size: 14px;
+    }
+    .cta2 .cta2-box .box-btn {
+        font-size: 15px;
+    }
+    .cta2 .cta2-right p {
+        font-size: 18px;
+        line-height: 30px;
+    }
+    .cta2 .cta2-right .cta2-list li {
+        font-size: 14px;
+    }
+    .pricing-plan .plan .owl-nav .owl-prev {
+        left: -10px;
+    }
+    .pricing-plan .plan .owl-nav .owl-next {
+        right: -30px;
+    }
+    .faq {
+        padding: 40px 0px;
+    }
+    .faq .faq-p {
+        font-size: 15px;
+    }
+    .contact {
+        padding: 40px 0px;
+        padding-top: 10px;
+    }
+    .contact .contact-box {
+        padding: 10px;
+    }
+    .contact .contact-box .box-right {
+        padding: 0px;
+    }
+    .other-banner .bann-img .banner-title {
+        font-size: 35px;
+    }
+    .pricing-table {
+        padding: 40px 0px;
+        padding-top: 10px;
+    }
+    .contact .contact-box .box-right .form-group .form-control {
+        padding: 10px;
+        margin-bottom: 10px;
+    }
+    .ptabler-payment .pay-btn {
+        font-size: 20px;
+        padding: 10px 40px;
+    }
+
+    img.Guaranteelogo {
+           right: 10px;
+    bottom: 20px;
+    max-width: 30%;
+   }
+   .banner2 {
+      height: 95vh;
+  }
+  .ssimg {
+   margin-top: 30px;
+}
+    
+}
+
+@media only screen and (min-width:768px) and (max-width:991px) {
+    .pricing-table .tlist .tlist-top {
+        padding: 10px;
+    }
+    .pricing-table .active .label {
+        top: 18px;
+        left: -23px;
+    }
+    .pricing-table .active .label p {
+        padding: 2px 17px;
+    }
+    .pricing-table .tlist .tlist-top h4 {
+        font-size: 20px;
+        margin-bottom: 8px;
+    }
+    .pricing-table .tlist .tlist-top h3 {
+        font-size: 24px;
+    }
+}
+
+@media only screen and (min-width:585px) and (max-width:767px) {
+    .pricing-plan .plan .owl-nav .owl-next {
+        right: -30px !important;
+    }
+    .pricing-plan .plan .owl-nav .owl-prev {
+        left: -15px !important;
+    }
+    .pricing-plan .plan .item .plan-box .box-title {
+        font-size: 15px !important;
+    }
+    .pricing-plan .plan .item .plan-box .label p {
+        font-size: 20px;
+    }
+    .pricing-plan .plan .item .plan-btn a {
+        font-size: 12px;
+    }
+}
+
+@media screen and (max-width: 767px) {	   
+
+.ssimg img {
+      max-width: 100px;
+  }
+   .ssimg img.smallimg {
+       max-width: 80px;
+   }
+   /*.banner2 {
+      min-height: 255vh;
+      height: 100%;
+  }*/
+
+    .banner {
+        background-attachment: inherit;
+    }
+.banner2 {
+    height: 105vh;
+}
+
+.addbox {
+           margin-bottom: 20px;
+            }
+            .addbox strong {
+                margin-bottom: 0px;
+            }
+
+.banner2-right {
+    display: none;
+}
+    .banner_caption .caption {
+        width: auto;
+        padding: 0 15px;
+    }
+    .banner_caption h1 {
+        font-size: 30px;
+        text-shadow: 0px 0 5px #fff;
+    }
+    header.fixed {
+        position: initial;
+    }
+    .calldiv aside {
+        position: initial;
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .calldiv p {
+        font-size: 13px;
+    }
+    .we_focus_text .comntitle {
+        font-size: 20px;
+        line-height: 26px;
+    }
+    .we_focus_text p {
+        font-size: 14px;
+        line-height: 24px;
+        margin: 15px 0;
+    }
+    .tag_title {
+        font-size: 16px;
+    }
+    .service_list li,
+    .work_process li {
+        width: 48%;
+    }
+    .da-thumbs li {
+        width: 24%;
+    }
+    footer li {
+        width: 50%;
+        margin-top: 20px;
+    }
+    .comnpadding,
+    .howit_work {
+        padding: 40px 0;
+    }
+    .tio-top .tio-inner p {
+        font-size: 15px;
+        line-height: 24px;
+    }
+   /* .banner2 {
+        height: 256vh;
+    }*/
+    .banner2 .banner2-left {
+        padding-left: 0px;
+    }
+    .banner2 .banner2-left h1 {
+        font-size: 20px;
+        line-height: 30px;
+    }
+    .banner2 .banner2-left p {
+        font-size: 16px;
+        line-height: 25px;
+    }
+    .banner2-inner .icon-box span {
+        font-size: 16px;
+        line-height: 30px;
+    }
+    .banner2-inner {
+        margin-top: 50px;
+    }
+    .cta2 .cta2-head h2 {
+        font-size: 26px;
+        line-height: 30px;
+        margin-bottom: 5px;
+    }
+    .cta2 .cta2-head p {
+        font-size: 20px;
+        line-height: 30px;
+    }
+    .cta2 .cta2-box h4 {
+        font-size: 22px;
+    }
+    .cta2 .cta2-box h5 {
+        font-size: 15px;
+    }
+    .cta2 .cta2-box .box-btn {
+        font-size: 14px;
+    }
+    .cta2 .cta2-right {
+        padding: 10px;
+    }
+    .cta2 .cta2-right p {
+        font-size: 18px;
+        margin-bottom: 20px;
+    }
+    .cta2 .cta2-right .cta2-list li {
+        font-size: 14px;
+    }
+    .cta2 .cta2-right .cta2-list li i {
+        font-size: 18px;
+    }
+    .pricing-plan .plan .owl-nav .owl-prev {
+        left: 5px;
+    }
+    .pricing-plan .plan .owl-nav .owl-next {
+        right: -5px;
+    }
+    .pricing-plan .plan .owl-nav .owl-prev i,
+    .pricing-plan .plan .owl-nav .owl-next i {
+        font-size: 35px;
+    }
+    .other-banner .bann-img .banner-title {
+        font-size: 20px;
+        line-height: 30px;
+        position: initial;
+        text-align: center;
+        transform: none;
+        margin-top: 25px;
+        color: #0e2339;
+    }
+    .faq {
+        padding-top: 10px;
+    }
+    .faq .faq-p {
+        font-size: 14px;
+        margin-bottom: 20px;
+    }
+    .contact .contact-box .box-right {
+        margin: 20px 0px;
+    }
+    .pricing-plan .plan .item .plan-box .box-img {
+        width: 100px;
+        height: 100px;
+    }
+    .pricing-plan .plan .item .plan-box .box-title {
+        font-size: 17px;
+    }
+    .faq .faq-inner .accordion .accordion-item .accordion-body {
+        font-size: 14px;
+    }
+    .faq .faq-inner .accordion .accordion-item .accordion-header button[aria-expanded="false"]::after {
+        right: -10px;
+    }
+    .faq .faq-inner .accordion .accordion-item .accordion-header button[aria-expanded="true"]::after {
+        right: -8px;
+    }
+    .pricing-table .ptabler-bottom .bottom-head {
+        flex-direction: column;
+    }
+    .pricing-table .ptabler-bottom .bottom-head .bhead-left,
+    .pricing-table .ptabler-bottom .bottom-head .bhead-right {
+        width: 100%;
+        text-align: center;
+    }
+    .pricing-table .ptabler-bottom .bottom-head .bhead-left {
+        margin-bottom: 10px;
+    }
+    .contact .contact-box .box-left .left-inner h4 {
+        font-size: 20px;
+    }
+    .contact .contact-box .box-left .left-inner .inner-btn {
+        font-size: 22px;
+    }
+    .contact .contact-box .box-left .left-inner p {
+        font-size: 14px;
+    }
+    .contact .contact-box .mrev {
+        flex-direction: column-reverse;
+    }
+    .contact .contact-box .box-right .right-head h5 {
+        font-size: 22px;
+    }
+    .contact .contact-box .box-right .right-head p {
+        font-size: 14px;
+        margin-bottom: 15px;
+    }
+    .contact .contact-box .box-right .form-group .form-control {
+        padding: 5px 10px;
+        margin-bottom: 10px;
+        font-size: 15px;
+    }
+    .contact .contact-box .box-right .form-btn {
+        margin-bottom: 20px;
+    }
+    .pricing-table-head {
+        font-size: 20px;
+    }
+    .pricing-table-pare {
+        font-size: 15px;
+    }
+    .pricing-plan {
+        padding: 40px 0px;
+    }
+    .other-banner .bann-img img {
+        height: 150px;
+        object-fit: cover;
+    }
+    .pricing-table .ptable-list li{
+        width: 100%;
+    }
+    .benilink {
+        padding: 20px;
+    }
+    .bottom-head .bhead-left {
+        border-right: none;
+        border-bottom: 1px solid #fff;
+    }
+    .bottom-head {
+        padding: 30px;
+    }
+	.submenu {
+		display: none;
+	}
+	.dropdown-menu li {
+		padding: 0;
+		/* border-bottom: 1px solid #fff; */
+	}
+	.dropdown-menu.show {			
+		padding: 0;
+		    border: none;
+	}
+	.dropdown-menu li>a {
+		font-size: 14px;
+		padding: 8px 0px;
+        position: relative;
+        padding-left: 25px;
+	}
+    .dropdown-menu li>a::before{
+        content: "\f105";
+        font-family: fontawesome;
+        position: absolute;
+        top: 0;
+        left: 0;
+        color: #40D26A;
+        font-size: 24px;
+    }
+	.dropdown-menu li:last-child {
+		border-bottom: none;
+	}
+	.navbar-expand-lg .navbar-nav .dropdown-menu{
+		transform: inherit;
+		margin-left:12px;
+	}
+   
+	
+}
+
+@media screen and (max-width:525px) {
+    .service_list li,
+    .work_process li {
+        width: 100%;
+    }
+    .da-thumbs li {
+        width: 47%;
+        margin: 0 0 15px 0;
+    }
+    .da-thumbs {
+        justify-content: space-between;
+        margin: 30px auto;
+    }
+    .CTA_btn {
+        flex-wrap: wrap;
+    }
+    a.contactbtn img {
+        margin-right: 10px;
+        vertical-align: sub;
+    }
+    .CTA_btn a {
+        height: 60px;
+        margin-top: 15px;
+    }
+    footer li {
+        width: 100%;
+        margin-top: 10px;
+    }
+
+    .banner2 ,
+    .banner2 .vh-100{
+        height: auto !important;
+    }
+    .banner2 {
+        padding: 25px 0;
+        text-align: center;
+    }
+    .banner2 .banner2-left h1 {
+        font-size: 26px;
+        line-height: 36px;
+    }
+    .bannerbtn a {
+        font-size: 15px;
+    padding: 5px 10px;
+    margin-right: 5px;
+    }
+    .banner_caption a i {
+        margin-right: 10px;
+        font-size: 22px;
+    }
+    .bannerbtn a span {
+        line-height: 16px;
+        font-size: 14px;
+    }
+    .bannerbtn a small {
+        font-size: 11px;
+    }
+    .banner {
+        padding: 30px 0;
+    }
+
+/*.banner2 {
+      min-height: 170vh;
+      height: 100%;
+  }*/
+    .banner_caption h1 {
+        font-size: 26px;
+        text-shadow: none;
+        margin-bottom: 15px;
+    }
+    .banner_caption aside span {
+        display: block;
+        margin-bottom: 10px;
+    }
+    .service_list li {
+        text-align: center;
+        margin-top: 20px;
+        border-radius: 10px;
+        -webkit-border-radius: 10px;
+        -moz-border-radius: 10px;
+        -ms-border-radius: 10px;
+        -o-border-radius: 10px;
+    }
+    .icondiv {
+        margin: 0 auto 15px;
+        width: 80px;
+        height: 80px;
+    }
+    .icondiv img {
+        width: 40px;
+    }
+    footer h6 {
+        font-size: 18px;
+        margin-bottom: 5px;
+    }
+    .comntitle {
+        font-size: 26px;
+    }
+    .workbox {
+        margin-top: 25px;
+    }
+    .workbox p {
+        margin: 0px;
+    }
+    .workbox aside {
+        font-size: 24px;
+        margin: 0;
+    }
+    /*.banner2 {
+        height: 165vh;
+    }*/
+    .banner2-inner .icon-box p {
+        font-size: 13px;
+    }
+    .faq .faq-inner .accordion .accordion-item .accordion-header button {
+        padding: 10px 30px 10px 15px;
+    }
+    .faq .faq-inner .accordion .accordion-item .accordion-body {
+        padding: 15px;
+    }
+    .pricing-table .ptable-right .right-img {
+        width: 55px;
+    }
+    .pricing-table .ptable-right .right-inner p {
+        font-size: 12px;
+    }
+    .pricing-table .ptable-right .right-inner h4 {
+        font-size: 16px;
+    }
+    .pricing-table .ptabler-bottom .bottom-head .bhead-left h3 {
+        font-size: 18px;
+    }
+    .pricing-table .ptabler-bottom .bottom-head .bhead-right {
+        padding: 0px 5px;
+    }
+    .pricing-table .ptabler-bottom .bottom-head .bhead-right h2 {
+        font-size: 22px;
+        line-height: 22px;
+    }
+    .pricing-table .ptabler-bottom .bottom-head .bhead-right p {
+        font-size: 13px;
+    }
+    .pricing-plan .plan .item .plan-box {
+        width: 85%;
+        margin: 0 auto 30px;
+    }
+    .banner_caption a i {
+        margin-right: 5px;
+        font-size: 16px;
+    }
+    .bannerbtn a:nth-child(1) i ,
+    .bannerbtn a:nth-child(2) i{
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+    }
+    .ssimg {
+        margin-top: 0px;
+    }
+    .ssimg img {
+        max-width: 90px;
+        margin-right: 10px;
+    }
+}
+
+@media screen and (max-width:360px) {}
+
+ @media screen and (max-width: 992px) {
+            .addbox {
+                padding: 10px 5px;
+                flex-wrap: wrap;
+            }
+            .addbox strong {
+                margin-bottom: 10px;
+            }
+        }
